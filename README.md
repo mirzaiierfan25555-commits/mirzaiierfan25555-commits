@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Erfan Mirzaii
 
-<!--
-**mirzaiierfan25555-commits/mirzaiierfan25555-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 16-year-old student passionate about software development and computer networks. I am currently honing my skills in Python and Object-Oriented Programming (OOP) while working on building a solid foundation for my future in Computer Science.
 
-Here are some ideas to get you started:
+### 🔭 What I'm currently working on
+- 🐍 **Python Programming:** Focusing on OOP concepts and building practical applications.
+- 🏗️ **Git & GitHub:** Mastering version control to maintain professional-grade code.
+- 🎓 **Academic Goal:** Preparing for my future studies in Finland, focusing on strong academic performance and technical skill acquisition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** Python
+- **Tools:** Git, GitHub
+- **Learning:** Computer Networks, OOP, Software Architecture
+
+### 🚀 My Projects
+Check out my latest work in my main practice repository:
+- [python-practice](https://github.com/mirzaiierfan25555-commits/python-practice) - A collection of my daily coding challenges and projects (Book Manager, Average Calculator, etc.).
+
+### 📫 How to reach me
+- GitHub: [mirzaiierfan25555-commits](https://github.com/mirzaiierfan25555-commits)
+
+---
+*“Persistence is the key to mastering code.”*
